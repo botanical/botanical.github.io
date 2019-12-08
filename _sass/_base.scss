@@ -39,7 +39,7 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   $black;
+$theme-color:   $lime_green;
 
 
 /************************************************************/
@@ -132,7 +132,7 @@ a {
     }
     */
     &:hover {
-        color: $pink;
+        color: $black;
         text-decoration: none;
     }
 }
