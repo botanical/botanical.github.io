@@ -1,0 +1,7 @@
+---
+layout: post
+title:  values
+date:   2019-12-07
+description: values, opinion
+
+#### My Values
