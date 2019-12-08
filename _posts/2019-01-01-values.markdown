@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My Values and Beliefs
-date:   2019-12-07
+date: 2019-01-01 15:09:00
 description: the values and beliefs I use to guide my actions in life
 ---
 

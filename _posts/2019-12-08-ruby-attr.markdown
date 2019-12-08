@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby's attr_reader and attr_writer
-date: 2019-01-01 15:09:00
+date: 2019-12-08 15:09:00
 description: the power of ruby's attr methods
 ---
 
