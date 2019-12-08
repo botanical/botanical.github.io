@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-**Jennifer Tran** is a formally trained American Computer Scientist turned **Software Engineer** and **Technical Writer**. She uses her acquired skills to make the world a more inclusive and accessible place. 
+**Jennifer Tran** is a formally trained American Computer Scientist turned **Software Engineer** and **Technical Writer**. She uses her skills to make the world a more inclusive and accessible place. 
 
-Most of her Software Engineering experience pertains to backend, and most of her professional technical writing experience is in API documentation and Test documentation.
+Most of her Software Engineering experience is in backend, and most of her professional technical writing experience is in API and Test documentation.
 
 Jennifer is a graduate of the University of California, San Diego (BS, Computer Science). 
 
