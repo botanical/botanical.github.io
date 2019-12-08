@@ -22,9 +22,8 @@ Jennifer is a graduate of the University of California, San Diego (BS, Computer 
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
-    <a href="https://dev.to/botanical">
-     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jennifer Tran's DEV Profile" height="30" width="30">
-    </a>
+    <a href="https://dev.to/botanical"><i class="fab fa-dev" title="botanical's DEV Profile"></i></a>
+      
 
 </span>
 
