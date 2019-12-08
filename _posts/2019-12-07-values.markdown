@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  values
+title:  My Values and Beliefs
 date:   2019-12-07
-description: the values I use to guide my actions in life
+description: the values and beliefs I use to guide my actions in life
 ---
 
 #### My Values
+1. I believe all human beings are inherently worthy and valuable, no matter their perceived contributions to society.
+2. I believe all beings have a right to live free from suffering.
+3. I believe all humans have a right to an education.
+
+
