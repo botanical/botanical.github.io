@@ -22,8 +22,7 @@ Jennifer is a graduate of the University of California, San Diego (BS, Computer 
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
-    <a href="https://dev.to/botanical"><i class="fa 
-	fa-dev" title="botanical's DEV Profile"></i></a>
+    <a href="https://dev.to/botanical" target="_blank"><i class="fa fa-dev" title="botanical's DEV Profile"></i></a>
 </span>
 
 <div class="col three caption">
