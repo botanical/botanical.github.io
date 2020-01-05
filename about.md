@@ -20,7 +20,7 @@ Jennifer is a graduate of the University of California, San Diego (BS, Computer 
 	<a href="mailto:jet054@eng.ucsd.edu"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/botanical" target="_blank"><i class="fab fa-github-square"></i></a>
     <a href="https://dev.to/botanical" target="_blank"><i class="fab fa-dev"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fab fa-linkedin-square"></i></a>
+	<a href="https://www.linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
 </span>
 
