@@ -11,6 +11,8 @@ permalink: /about/
 
 Most of her Software Engineering experience is in backend, and most of her professional technical writing experience is in API and Test documentation.
 
+When Jennifer is not coding or writing, she can be found making illustrations or meditating.
+
 Jennifer is a graduate of the University of California, San Diego (BS, Computer Science). 
 
 <br/>
@@ -20,8 +22,6 @@ Jennifer is a graduate of the University of California, San Diego (BS, Computer 
 	<a href="https://github.com/botanical" target="_blank"><i class="fab fa-github-square"></i></a>
   <a href="https://dev.to/botanical" target="_blank"><i class="fab fa-dev"></i></a>
 	<a href="https://www.linkedin.com/in/tranjnnfr/" target="_blank"><i class="fab fa-linkedin"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
 	<a href="https://dribbble.com/jenniferatran" target="_blank"><i class="fab fa-dribbble-square"></i></a>
 </span>
 
