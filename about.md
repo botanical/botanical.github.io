@@ -18,9 +18,11 @@ Jennifer is a graduate of the University of California, San Diego (BS, Computer 
 <br/>
 <span class="contacticon center">
 	<a href="https://github.com/botanical" target="_blank"><i class="fab fa-github-square"></i></a>
-    <a href="https://dev.to/botanical" target="_blank"><i class="fab fa-dev"></i></a>
+  <a href="https://dev.to/botanical" target="_blank"><i class="fab fa-dev"></i></a>
 	<a href="https://www.linkedin.com/in/tranjnnfr/" target="_blank"><i class="fab fa-linkedin"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
+	<a href="https://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
+	<a href="https://dribbble.com/jenniferatran" target="_blank"><i class="fab fa-dribbble-square"></i></a>
 </span>
 
 <div class="col three caption">
