@@ -1,0 +1,11 @@
+---
+layout: post
+title: Writing on DEV!
+date: 2020-06-15 13:00:00
+description: Moving Technical Blog Posts
+---
+
+#### Writing on dev.to
+Most of the technical articles I will be writing can be found on my [DEV page](https://dev.to/botanical). The reason I am moving over to writing technical pieces on DEV is the ease of sharing information in conjunction with the thriving DEV community I have come to love.
+
+I will still be using my website to post snippets of writing for non-technical related opinion pieces or learnings. 
